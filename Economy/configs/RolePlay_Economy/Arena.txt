@@ -1,47 +1,47 @@
 "Arena"
 {
-	// Delay in seconds between each arena in weekday ( Sunday to Thursday )
-	"ARENA_DELAY_WEEKDAY"	 	"1200"
-	
-	// Delay in seconds between each arena in weekends ( Friday, Saturday )
-	"ARENA_DELAY_WEEKEND"		"900"
-	
-	"MIN_ARENA_REWARD"		"5000"
-	"MAX_ARENA_REWARD"		"12500"
+    // Delay in seconds between each arena in weekday ( Sunday to Thursday )
+    "ARENA_DELAY_WEEKDAY"         "1200"
+    
+    // Delay in seconds between each arena in weekends ( Friday, Saturday )
+    "ARENA_DELAY_WEEKEND"        "900"
+    
+    "MIN_ARENA_REWARD"        "5000"
+    "MAX_ARENA_REWARD"        "12500"
 
-	"MIN_JOTD_EXP"			"10"
-	"MAX_JOTD_EXP"			"30"
-	
-	// ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
-	"ARENA_SPAWN_XYZ_#0"		"-11268.388672, -9814.198242, -11614.206055"
-	"ARENA_SPAWN_GLOW_#0"		"255, 0, 0"
-	"ARENA_SPAWN_GLOW_NAME_#0"	"Red"
-	
-	"ARENA_SPAWN_XYZ_#1"		"-11320.545898, -7486.844238, -11614.206055"
-	"ARENA_SPAWN_GLOW_#1"		"255, 128, 0"
-	"ARENA_SPAWN_GLOW_NAME_#1"	"Orange"
-	
-	"ARENA_SPAWN_XYZ_#2"		"-11251.803711, -5243.120605, -11614.206055"
-	"ARENA_SPAWN_GLOW_#2"		"255, 255, 0"
-	"ARENA_SPAWN_GLOW_NAME_#2"	"Yellow"
-	
-	"ARENA_SPAWN_XYZ_#3"		"-8901.424805, -5162.935059, -11614.206055"
-	"ARENA_SPAWN_GLOW_#3"		"0, 255, 0"
-	"ARENA_SPAWN_GLOW_NAME_#3"	"Green"
-	
-	"ARENA_SPAWN_XYZ_#4"		"-6709.352051, -5226.755859, -11614.206055"
-	"ARENA_SPAWN_GLOW_#4"		"0, 255, 255"
-	"ARENA_SPAWN_GLOW_NAME_#4"	"Light Blue"
-	
-	"ARENA_SPAWN_XYZ_#5"		"-6655.692871, -7560.449707, -11614.206055"
-	"ARENA_SPAWN_GLOW_#5"		"153, 0, 255"
-	"ARENA_SPAWN_GLOW_NAME_#5"	"Purple"
-	
-	"ARENA_SPAWN_XYZ_#6"		"-6712.750488, -9787.047852, -11614.206055"
-	"ARENA_SPAWN_GLOW_#6"		"255, 0, 255"
-	"ARENA_SPAWN_GLOW_NAME_#6"	"Pink"
-	
-	"ARENA_SPAWN_XYZ_#7"		"-8963.664063, -9856.335938, -11614.206055"
-	"ARENA_SPAWN_GLOW_#7"		"128, 128, 128"
-	"ARENA_SPAWN_GLOW_NAME_#7"	"Grey"
+    "MIN_JOTD_EXP"            "10"
+    "MAX_JOTD_EXP"            "30"
+
+    // ARENA_SPAWN_GLOW_#x is the RGB color code, you can google color names to find colors and their RGB codes.
+    "ARENA_SPAWN_XYZ_#0"        "-14471.503, 12758.652, 12795.732421"
+    "ARENA_SPAWN_GLOW_#0"        "255, 0, 0"
+    "ARENA_SPAWN_GLOW_NAME_#0"    "Red"
+    
+    "ARENA_SPAWN_XYZ_#1"        "-14363.583, 10476.017, 12795.732421"
+    "ARENA_SPAWN_GLOW_#1"        "255, 128, 0"
+    "ARENA_SPAWN_GLOW_NAME_#1"    "Orange"
+    
+    "ARENA_SPAWN_XYZ_#2"        "-12101.213, 10460.611, 12795.732421"
+    "ARENA_SPAWN_GLOW_#2"        "255, 255, 0"
+    "ARENA_SPAWN_GLOW_NAME_#2"    "Yellow"
+    
+    "ARENA_SPAWN_XYZ_#3"        "-9913.602, 10481.992, 12795.732421"
+    "ARENA_SPAWN_GLOW_#3"        "0, 255, 0"
+    "ARENA_SPAWN_GLOW_NAME_#3"    "Green"
+    
+    "ARENA_SPAWN_XYZ_#4"        "-9849.591, 12688.906, 12795.732421"
+    "ARENA_SPAWN_GLOW_#4"        "0, 255, 255"
+    "ARENA_SPAWN_GLOW_NAME_#4"    "Light Blue"
+    
+    "ARENA_SPAWN_XYZ_#5"        "-9892.662, 15011.923, 12795.732421"
+    "ARENA_SPAWN_GLOW_#5"        "153, 0, 255"
+    "ARENA_SPAWN_GLOW_NAME_#5"    "Purple"
+    
+    "ARENA_SPAWN_XYZ_#6"        "-12085.823, 15063.913, 12795.732421"
+    "ARENA_SPAWN_GLOW_#6"        "255, 0, 255"
+    "ARENA_SPAWN_GLOW_NAME_#6"    "Pink"
+    
+    "ARENA_SPAWN_XYZ_#7"        "-14401.343, 15002.436, 12795.732421"
+    "ARENA_SPAWN_GLOW_#7"        "128, 128, 128"
+    "ARENA_SPAWN_GLOW_NAME_#7"    "Grey"
 }
