@@ -16,7 +16,6 @@
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Thief.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/MarketShop.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/WeaponsShop.txt"
-	"Plugin"	"Path_SM/configs/RolePlay_Economy/AdminRooms.txt"
 	
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Doors.txt"
 	"Plugin"	"Path_SM/configs/RolePlay_Economy/Arena.txt"
